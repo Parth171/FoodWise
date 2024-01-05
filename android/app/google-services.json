@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "283183454644",
+    "project_id": "grocerylistapp-e2848",
+    "storage_bucket": "grocerylistapp-e2848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283183454644:android:0774d231c0b7e672ebfae1",
+        "android_client_info": {
+          "package_name": "com.parthsakpal.foodwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283183454644-j9t3uh0tlfva71q059pflho50akr7lu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzIZod5MzVjNlpkQXdNYYlveL8qAXGTbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283183454644-j9t3uh0tlfva71q059pflho50akr7lu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283183454644-00kn5a9m1dv8i2350jhf9kpqhpj7cu5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parthsakpal.foodwise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
